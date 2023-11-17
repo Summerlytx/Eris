@@ -8,7 +8,21 @@ This is a basic template for a discord bot with Eris.
 npm install
 ```
 4. Rename `config.example.json` to `config.json`
-5. Create an application and add the token
-### 🎉 Congratulations, you now have a discord bot running with Eris!
+5. Create an application and add the token to config
+6. Adjust the prefix to one of your choosing
+7. Change the [../data/emojis](https://github.com/Summerlytz/Eris/blob/main/data/emojis.json) to emojis of your choosing
+**Note:** [../data/permissions](https://github.com/Summerlytz/Eris/blob/main/data/permissions.json)  has no use at present
+8. Run the bot:
+```d
+node .
+``` 
+
+## 🛟 Need help?
+Please do not contact me for assistance. If you need help, I recommend the following tools:
+- Stack Overflow
+- Eris Documentation
+- Google/YouTube
+- ChatGPT (highly recommend against using this to code entire functions; should be for guidance only)
+
 ---
-#### 🛟 If you need support, I recommend asking either ChatGPT, consulting the Eris documentation or visiting stack overflow!
+### 🎉 Congratulations, you now have a discord bot running with Eris!
